@@ -9,7 +9,7 @@
   "railwayTips": "Use USA East as region for railway, and render. ",
   "GRADIENT_THEME": "retro",
   "knownURL": "https://cassidy-alex.onrender.com",
-  "noFB": false,
+  "noFB": true,
   "PREFIX": "/",
   "NICKNAME": "Alex Reborn V1",
   "CUSTOM_STYLE": {
@@ -61,7 +61,7 @@
   },
   "autoCreateDB": false,
   "MongoConfig": {
-    "status": true,
+    "status": false,
     "uri": "MONGO_URI",
     "note": "DO NOT MODIFY THIS IF YOU DO NOT KNOW WHAT YOU WERE DOING. They serve as .env keys for mongo uri."
   },
