@@ -62,7 +62,7 @@
   "autoCreateDB": true,
   "MongoConfig": {
     "status": true,
-    "uri": "MONGO_URI",
+    "uri": "mongodb+srv://aljurdev:aljurdev112233@cluster0.shw5rft.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "note": "DO NOT MODIFY THIS IF YOU DO NOT KNOW WHAT YOU WERE DOING. They serve as .env keys for mongo uri."
   },
   "credentials": {
@@ -99,7 +99,7 @@
     "CommandContext.output"
   ],
   "disableUIDLinks": false,
-  "ignoreUIDLinksOfAdminBOT": true,
+  "ignoreUIDLinksOfAdminBOT": false,
   "disabledCategories": ["Xavia Economy", "Idle Accumulation Games"],
-  "showAuthorOnStyle": false
+  "showAuthorOnStyle": true,
 }
